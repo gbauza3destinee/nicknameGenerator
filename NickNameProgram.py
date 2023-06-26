@@ -6,8 +6,6 @@ import random, string
 # Question 2: How does splicing strings work in Python?
 
 
-
-
 # Takes in a NickName 
 def guessNickName():
     name = input("Enter your name, and I will guess your nickname:\n")
@@ -76,8 +74,8 @@ def generateDJNickName():
 
 ## TODO Next- determine how to hand out a dj nickname based on first char of input name 
 
-    djBeginnerWords.stream().collect(toCollectorList())
-    if (name[0] == djBeginnerWords.getKey()) : return djBeginnerWords.getValue;
+    djBeginnerWords.stream().collect(hashMap.toCollectorList())
+    if (name[0] == djBeginnerWords.getKey()) : return djBeginnerWords.getValue();
         
 
 
