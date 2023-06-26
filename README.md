@@ -1,8 +1,7 @@
 ## Instant Nickname Generator
-A little info about your project and/ or overview that explains **what** the project is about.
-
+A fun and silly nickname generator program for any occasion! The program provides 5 different modes for nickname creation for any occassion. Need a StageName? Need a temporary Spanish Name, need a friend group NickName? Simply type in your firstname and ideas made for you, with the click of a button.
 ## Motivation
-A short description of the motivation behind the creation and maintenance of the project. This should explain **why** the project exists.
+A project for practicing the Python language, and creating method functionality, and simple String modification operations.
 
 ## Build status
 Build status of continus integration i.e. travis, appveyor etc. Ex. - 
