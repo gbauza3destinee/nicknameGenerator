@@ -1,5 +1,5 @@
 ## Instant Nickname Generator
-A fun and silly nickname generator program for any occasion! The program provides 5 different modes for nickname creation for any occassion. Need a StageName? Need a temporary Spanish Name, need a friend group NickName? Simply type in your firstname and ideas made for you, with the click of a button.
+A fun and silly nickname generator program for any occasion! The program provides 5 different modes for nickname creation for your name. Need a new StageName? Need a temporary Spanish Name, or need a new nickname idea for your friend group? This app is for you! Simply type in your firstname and ideas made for you, at the click of a button.
 ## Motivation
 A project for practicing the Python language, and creating method functionality, and simple String modification operations.
 
