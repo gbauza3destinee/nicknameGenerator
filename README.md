@@ -24,16 +24,10 @@ Runs on Python Language version 3.7.
 Describe and show how to run the tests with code examples.
 
 ## How to use?
-If people like your project they’ll want to learn how they can use it. To do so include step by step guide to use your project.
+To use this program, open on an IDE compatible with Python Language. Then, run the script and enter your First Name without any special characters, to begin the program and generate nicknames!
 
 ## Contribute
-
-Let people know how they can contribute into your project. A [contributing guideline](https://github.com/zulip/zulip-electron/blob/master/CONTRIBUTING.md) will be a big plus.
-
-## Credits
-Give proper credits. This could be a link to any repo which inspired you to build this project, any blogposts or links to people who contrbuted in this project. 
-
-#### Anything else that seems useful
+To add onto this idea, collaborators can create a new method, which represents another mode of nickname generating, given a user's String input and by applying any strategy of String manipulation! Have fun :) 
 
 ## License
 A short snippet describing the license (MIT, Apache etc)
