@@ -12,15 +12,6 @@ Build status of continus integration i.e. travis, appveyor etc. Ex. -
 ## Code style
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](https://github.com/feross/standard)
  
-## Screenshots
-Include logo/demo screenshot etc.
-
-## Tech/framework used
-Ex. -
-
-<b>Built with</b>
-- [Electron](https://electron.atom.io)
-
 ## Features
 This program includes 5 different modes for generating a new nickname, based on your specific preferences!
 
