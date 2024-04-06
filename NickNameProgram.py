@@ -1,14 +1,11 @@
 import random, string
 #! python3
 #  After writing in Method save project,
-# Practicing defining methods in Python - 
-# Question 1: how does the return statement work in Python?
-# Question 2: How does splicing strings work in Python?
 
 
 # Takes in a NickName 
 def guessNickName():
-    name = input("Enter your name, and I will guess your nickname:\n")
+    name = input("Enter your name, and I will give you a new nickname: \n")
     nickname = name[0:3]
     print("Your new nickname is " + nickname)
 guessNickName()
@@ -17,9 +14,9 @@ guessNickName()
 # Takes in a Silly 
 
 def generatePetName():
-    name = input("Enter your name, and I will guess your nickname:\n")
+    name = input("Enter your name, and I will give you an endearing your nickname:\n")
     nickname = name[0:3]
-    print("Your new nickname is " + nickname)
+    print("Your new nickname is " + nickname + nickname)
 
 
 
@@ -31,13 +28,12 @@ def generateSpanishNickName():
     spanishNickName = nickname + "ito"
 
     
-    if(prefix.endswith("e"|| "i")) : name[0:4]
+    if(prefix.endswith("e"|| "i")) : name[0:4])
     
     else :    
         spanishNickName = nickname + "ito"
         spanishNickName2= nickname + "ita"
     print("Your new Spanish nickname is " +spanishNickName) 
-
 
 
 
