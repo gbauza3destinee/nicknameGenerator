@@ -62,6 +62,20 @@ def generateDJNickName(name:str):
 
     return nickname
 
+def countSpaces(nickName:str):
+    counter = 0
+    for char in nickName:
+        if char == ' ':
+            counter+=1
+    
+    return counter
+    ## loop through list of chars provided 
+    ## find space 
+    # return numerical value of spaces
+    
+    ## use split string method 
+
+
     
 #Calling the program
 def main():
@@ -96,6 +110,8 @@ def main():
 
         print(nickName)
 
+        counter = countSpaces(nickName)
+        print(counter)
 
 if __name__ == "__main__":
     main()
